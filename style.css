@@ -1,0 +1,17 @@
+body {
+    background-size: cover;
+}
+
+#play {
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px red;
+}
+
+#status {
+    background-color: green;
+    width: 25%;
+}
+
+canvas {
+    text-align: center;
+}
